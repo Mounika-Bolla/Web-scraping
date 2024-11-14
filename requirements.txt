@@ -1,0 +1,9 @@
+bs4
+requests
+pillow
+pytesseract
+cv
+numpy
+matplotlib
+tabulate
+scikit-learn
